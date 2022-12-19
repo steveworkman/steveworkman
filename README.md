@@ -5,3 +5,5 @@ From 2008 to 2013 I was an organiser for [London Web Standards](https://www.lond
 
 
 I'm originally from the North-West of England, and I graduated from the University of Sheffield in 2007 with a masters in Computer Science. I play hockey for [Sonning Hockey Club](https://www.sonninghockeyclub.co.uk/) in Reading
+
+You can find my writing on [my blog](https://www.steveworkman.com) and my stream of conciousness on <a rel="me" href="https://webperf.social/@steveworkman">Mastodon</a>
